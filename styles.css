@@ -73,6 +73,7 @@ header nav .btn-primary {
 }
 
 .s-hero .text .btn-primary {
+  border-radius: 20px;
   padding: 1.7rem 3.7rem;
 }
 
